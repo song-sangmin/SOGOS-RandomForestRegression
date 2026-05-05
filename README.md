@@ -1,12 +1,10 @@
 # Random forest regression on multi-platform in-situ ocean observations
 
-Paper submitted to AMS Artifical Intelligence in Earth Sciences (AIES) May 2024 \
-[Link to pre-print](https://doi.org/10.22541/essoar.171707849.91867565/v1)
+Accepted to AMS Artifical Intelligence in the Earth Systems (AIES), Apr 2026 \
+[Link to pre-print](https://doi.org/10.22541/essoar.171707849.91867565/v2)
 
 Contact: Song Sangmin <sangsong@uw.edu> \
 University of Washington, School of Oceanography
-
-Last updated: May 30 2024
 
 ## Overview
 
