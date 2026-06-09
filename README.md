@@ -1,7 +1,7 @@
 # Random forest regression on multi-platform in-situ ocean observations
 
-Accepted to AMS Artifical Intelligence in the Earth Systems (AIES), Apr 2026 \
-[Link to pre-print](https://doi.org/10.22541/essoar.171707849.91867565/v2)
+Published in AMS Artifical Intelligence in the Earth Systems (AIES), Apr 2026 \
+[Link to journal article](https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-24-0048.1/AIES-D-24-0048.1.xml)
 
 Contact: Song Sangmin <sangsong@uw.edu> \
 University of Washington, School of Oceanography
@@ -14,7 +14,6 @@ Figure: Increasing the resolution of Southern Ocean nitrate maps with RFR.
 ![Figure](./images/small_resolution.png))
 
 Given increasing observational coverage of the global oceans by Argo floats and other drifting profilers, RFR presents opportunities to derive additional value from these sometimes incomplete biogeochemical datasets. Such efforts to bridge observational gaps using new ocean technologies and machine learning techniques will expand our knowledge of global biogeochemical cycles at previously inaccessible scales.
-
 
 
 ## RFR Notebooks
